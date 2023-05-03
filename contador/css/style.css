@@ -1,0 +1,38 @@
+*{
+    font-family: 'Sigmar', cursive;
+    margin: 15px;
+}
+body{
+    background-color: rgb(32, 32, 32);
+}
+.container {
+    text-align: center;
+    background-color: rgb(206, 255, 8);
+    border-radius: 10%;
+    height: 90%;
+}
+img{
+    border-radius: 80%;
+    width: 300px; 
+    height: 300px;
+}
+h1{
+    font-size: 300%;
+}
+
+#sumar{
+    font-size: 40px;
+    cursor: pointer;
+}
+#restar{
+    font-size: 40px;
+    cursor: pointer;
+}
+#reset{
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.show{
+    font-size: 90px;
+}
